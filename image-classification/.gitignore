@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Torch Cache
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# -------------------------
+# Ignore COCO dataset
+# -------------------------
+data/train2017/
+data/val2017/
+data/annotations/
+
+# Keep folders
+!data/train2017/.gitkeep
+!data/val2017/.gitkeep
+!data/annotations/.gitkeep
