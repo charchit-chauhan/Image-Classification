@@ -206,13 +206,13 @@ Predict New Images
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/riyajayswar/Task3_ResNet18_COCO.git
+git clone https://github.com/charchit-chauhan/Image-Classification.git
 ```
 
 Move into the project directory.
 
 ```bash
-cd Task3_ResNet18_COCO
+cd image-classification
 ```
 
 ---
@@ -353,7 +353,7 @@ Prediction: Person
 
 # 👩‍💻 Author
 
-**Riya Jayswar**
+**Charchit Chauhan**
 
 Deep Learning Internship Project
 
